@@ -6,10 +6,10 @@ hello my name is eunhee
 <img width="" height="" src="./png/2주차 과제.png"></img>
 
 ## 2주차 과제
-<img width="" height="" src="./png/3주차 과제.png"></img>
+<img width="" height="" src="./Png/3주차 과제.png"></img>
 
 ## 3주차 과제
-<img width="" height="" src="./png/3주차 과제 -1.png"></img>
+<img width="" height="" src="./Png/3주차 과제 -1.png"></img>
 
 ## 4주차 과제
 
