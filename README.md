@@ -27,3 +27,7 @@ hello my name is eunhee
 
 ## 10주차 과제
 <img width="" height="" src="./png/10주차 과제.PNG"></img>
+
+
+## 12주차 과제
+<img width="" height="" src="./png/12주차 과제.PNG"></img>
